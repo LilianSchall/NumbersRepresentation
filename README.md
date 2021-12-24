@@ -57,6 +57,13 @@ Simply type the following command:
 cargo run
 ```
 
+* Commands:
+
+Pressing A will show/unshow the Axes,
+Pressing N will only show prime numbers/ show all numbers,
+Pressing down-arrow will make you unzoom,
+Pressing up-arrow wille make you zoom in the graph !
+
 ## Contacts
 
 If you have any question about the project, feel free to ask me on social media !
