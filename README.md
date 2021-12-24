@@ -60,9 +60,12 @@ cargo run
 * Commands:
 
 Pressing A will show/unshow the Axes,
+
 Pressing N will only show prime numbers/ show all numbers,
+
 Pressing down-arrow will make you unzoom,
-Pressing up-arrow wille make you zoom in the graph !
+
+Pressing up-arrow will make you zoom in the graph !
 
 ## Contacts
 
